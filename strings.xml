@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="learncode">Learn Code Online</string>
+    <string name="username"></string>
+    <string name="password"></string>
+    <string name="retype"></string>
+    <string name="email"></string>
+
+    <string name="submit">Submit</string>
+
+
+</resources>
